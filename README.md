@@ -6,7 +6,7 @@
 
 ### Мой стек
 
-PHP, Laravel Framework, Python, HTML, CSS, JS, SQL, XML, JSON, CVS, Linux, Windows, Bash, PostgreSQL, Apache, Nginx, Git, REST, Postfix,  1С, KVM, Docker, Docker-compose, VMWare, HyperV
+PHP, Laravel Framework, Python, HTML, CSS, JS, Twig, SQL, ORM, XML, JSON, CVS, Linux, Windows, Bash, PostgreSQL, Apache, Nginx, Git, REST, Postfix,  1С, KVM, Docker, Docker-compose, VMWare, HyperV
 
 ### Вот, что я умею
 
