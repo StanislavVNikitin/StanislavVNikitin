@@ -11,6 +11,7 @@ Python, Django, PHP, Laravel Framework,  HTML, CSS, JS, Twig, SQL, ORM, XML, JSO
 ### Вот, что я умею
 - :heavy_check_mark: Сайт сообщества Органических ацидемий (https://github.com/StanislavVNikitin/oanews)
 - :heavy_check_mark: IT-Job командный проект http://it-job.site (https://github.com/GBdev2Python/GBdev2Python)
+- :heavy_check_mark: Cleanspot командный проект (https://github.com/Cleanspot/Cleanspot-web)
 - :heavy_check_mark: Диетологический калькулятор для орфанных заболеваний на PHP ООП (https://github.com/StanislavVNikitin/DietCalcOOP)
 - :heavy_check_mark: Диетологический калькулятор для орфанных заболеваний на PHP функциональное решение (https://github.com/StanislavVNikitin/DietCalcPHP)
 
