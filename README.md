@@ -1,15 +1,16 @@
 ### Привет!
 
-Я <b>Станислав Никитин</b>, Веб-разработчик (Backend - PHP, Laravel) (Frontend - HTML-JS)
+Я <b>Станислав Никитин</b>, Веб-разработчик (Backend - Python, Django, PHP, Laravel) (Frontend - HTML-JS)
 
 опыт в ИТ более 20 лет, опыт веб-разработке с 2018 года.
 
 ### Мой стек
 
-PHP, Laravel Framework, Python, HTML, CSS, JS, Twig, SQL, ORM, XML, JSON, CVS, Linux, Windows, Bash, PostgreSQL, Apache, Nginx, Git, REST, Postfix,  1С, KVM, Docker, Docker-compose, VMWare, HyperV
+Python, Django, PHP, Laravel Framework,  HTML, CSS, JS, Twig, SQL, ORM, XML, JSON, CVS, Linux, Windows, Bash, PostgreSQL, Apache, Nginx, Git, REST, Postfix,  1С, KVM, Docker, Docker-compose, VMWare, HyperV
 
 ### Вот, что я умею
-
+- :heavy_check_mark: Сайт сообщества Органических ацидемий (https://github.com/StanislavVNikitin/oanews)
+- :heavy_check_mark: IT-Job командный проект http://it-job.site (https://github.com/GBdev2Python/GBdev2Python)
 - :heavy_check_mark: Диетологический калькулятор для орфанных заболеваний на PHP ООП (https://github.com/StanislavVNikitin/DietCalcOOP)
 - :heavy_check_mark: Диетологический калькулятор для орфанных заболеваний на PHP функциональное решение (https://github.com/StanislavVNikitin/DietCalcPHP)
 
