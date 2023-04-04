@@ -6,7 +6,7 @@
 
 ### Мой стек
 
-Python, Django Framework, PHP, Laravel Framework,  HTML, CSS, JS, Twig, SQL, ORM, XML, JSON, CVS, Linux, Windows, Bash, PostgreSQL, Apache, Nginx, Git, REST, Postfix,  1С, KVM, Docker, Docker-compose, VMWare, HyperV
+Python, Django Framework, PHP, Laravel Framework,  1С, HTML, CSS, JS, Twig, SQL, ORM, XML, JSON, CVS, Linux, Windows, Bash, PostgreSQL, Apache, Nginx, Git, REST, Postfix, KVM, Docker, Docker-compose, VMWare, HyperV
 
 ### Вот, что я умею
 - :heavy_check_mark: Сайт сообщества Органических ацидемий (https://github.com/StanislavVNikitin/oanews)
