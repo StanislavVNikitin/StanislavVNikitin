@@ -19,6 +19,7 @@ Python, Django Framework, PHP, Laravel Framework,  1С, HTML, CSS, JS, Twig, SQL
 ### Дипломы и Сертификаты 
 
 #### GeekBrains
+- Программист Python [cвидетельство](https://github.com/StanislavVNikitin/StanislavVNikitin/blob/main/Certificate%20Python%20Nikitin%20Stanislav.pdf) [Удостоверение о повышении квалификации](https://github.com/StanislavVNikitin/StanislavVNikitin/blob/main/Udostoverenie%20Python%20Nikitin%20Stanislav.pdf)
 - Web-разработчик [cвидетельство](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_Web_Prog_GB.pdf)
 - Руководитель ИТ-проектов [диплом](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_PM_GB.pdf)
 - Laravel. Глубокое погружение [сертификат](https://gb.ru/certificates/1028284)
