@@ -9,6 +9,7 @@
 Python, Django Framework, PHP, Laravel Framework, WordPress,  1С, HTML, CSS, BootStrap, JS, jQuery, AJAX, Twig, SQL, ORM, XML, JSON, CVS, Linux, Windows, Bash, MySQL, PostgreSQL, MSSQL, Redis, Apache, Nginx, Git, REST, Postfix, KVM, Docker, Docker-compose, VMWare, HyperV
 
 ### Вот, что я умею
+- :heavy_check_mark: Плагин для WordPress добавляющий галарею(слайдер) на страницу новости [wp_glgallery](https://github.com/StanislavVNikitin/wp_glgallery)
 - :heavy_check_mark: Подготовлена и адаптированна тема для WordPress 6 на основе шаблона Meranda [wp_theme_meranda](https://github.com/StanislavVNikitin/wp_theme_meranda)
 - :heavy_check_mark: Подготовлена и адаптированна тема для WordPress 6 для сайта Linux на основе шаблона Mundana [wp_theme_gnulinux](https://github.com/StanislavVNikitin/wp_theme_gnulinux)
 - :heavy_check_mark: Сайт сообщества Органических ацидемий (https://github.com/StanislavVNikitin/oanews)
