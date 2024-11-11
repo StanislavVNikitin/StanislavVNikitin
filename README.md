@@ -1,6 +1,6 @@
 ### Привет!
 
-Я <b>Станислав Никитин</b>, Веб-разработчик (Backend - Python, Django, PHP, Laravel, WordPress) (Frontend - HTML-JS), 1C
+Я <b>Станислав Никитин</b>, Веб-разработчик, Сайты под ключ Тильда, (Frontend - HTML-JS) (Backend - Python, Django, PHP, Laravel, WordPress), 1C
 
 опыт в ИТ более 20 лет, опыт веб-разработке с 2018 года.
 
