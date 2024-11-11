@@ -21,6 +21,11 @@ Python, Django Framework, PHP, Laravel Framework, WordPress,  1С, HTML, CSS, Bo
 
 ### Дипломы и Сертификаты 
 
+#### Tilda.School
+- Web-дизайнер сайтов Tilda Pro [сертификат](https://raw.githubusercontent.com/StanislavVNikitin/StanislavVNikitin/refs/heads/main/Sertificate%20Stanislav%20Nikitin%20Tilda%20Pro.jpg)
+- Web-дизайнер [сертификат](https://raw.githubusercontent.com/StanislavVNikitin/StanislavVNikitin/refs/heads/main/Sertificate%20Stanislav%20Nikitin%20Web%20Design%20.jpg)
+
+
 #### GeekBrains
 - Программист Python [cвидетельство](https://github.com/StanislavVNikitin/StanislavVNikitin/blob/main/Certificate%20Python%20Nikitin%20Stanislav.pdf) -  [Удостоверение о повышении квалификации](https://github.com/StanislavVNikitin/StanislavVNikitin/blob/main/Udostoverenie%20Python%20Nikitin%20Stanislav.pdf)
 - Web-разработчик [cвидетельство](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_Web_Prog_GB.pdf)
