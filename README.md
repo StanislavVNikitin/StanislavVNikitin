@@ -6,7 +6,7 @@
 
 ### Мой стек
 
-Python, Django Framework, PHP, Laravel Framework, WordPress,  1С, HTML, CSS, BootStrap, JS, jQuery, AJAX, Twig, SQL, ORM, XML, JSON, CVS, Linux, Windows, Bash, MySQL, PostgreSQL, MSSQL, Redis, Apache, Nginx, Git, REST, Postfix, KVM, Docker, Docker-compose, VMWare, HyperV
+Tilda, Figma, HTML, CSS, BootStrap, JS, jQuery, Python, Django Framework, PHP, Laravel Framework, WordPress,  1С,  AJAX, Twig, SQL, ORM, XML, JSON, CVS, Linux, Windows, Bash, MySQL, PostgreSQL, MSSQL, Redis, Apache, Nginx, Git, REST, Postfix, KVM, Docker, Docker-compose, VMWare, HyperV
 
 ### Вот, что я умею
 - :heavy_check_mark: Плагин для WordPress добавляющий галарею(слайдер) на страницу новости [wp_glgallery](https://github.com/StanislavVNikitin/wp_glgallery)
