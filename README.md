@@ -1,6 +1,6 @@
 ### Привет!
 
-Я <b>Станислав Никитин</b>, Веб-разработчик, Сайты под ключ Тильда, (Frontend - HTML-JS) (Backend - Python, Django, PHP, Laravel, WordPress), 1C
+Я <b>Станислав Никитин</b>, Веб-разработчик, Сайты под ключ Тильда, 1C Bitrix, WordPress (Frontend - HTML-JS) (Backend - Python, Django, PHP, Laravel, WordPress), 1C
 
 опыт в ИТ более 20 лет, опыт веб-разработке с 2018 года.
 
@@ -36,6 +36,7 @@ Tilda, Figma, HTML, CSS, BootStrap, JS, jQuery, Python, Django Framework, PHP, L
 - Python [сертификат](https://gb.ru/certificates/1228662) 
 
 #### Нетология
+- 1C-Bitrix Pro разработчик [сертификат](https://github.com/StanislavVNikitin/StanislavVNikitin/blob/main/1C%20Bitrix%20Pro%20Netology%20certificate%20NikitinSV.pdf)
 - 1С-разработчик [диплом](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_1C_Dev_Netology.pdf)
 - 1C-разработчик [сертификат](https://github.com/StasVNikitin/StasVNikitin/blob/main/1C_dev_Netology.pdf)
 
